@@ -1,6 +1,6 @@
 //<![CDATA[
 $(document).ready(function () {
-    var idBlog = "1588801827706232720"; // معرف المدونة التي وضعت عليها لوحة التفعيل
+    var idBlog = "1588801827706232720";
     $(function () {
         "use strict";
         $.ajax({
